@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+remote_theme: andrewbanchich/forty-jekyll-theme
